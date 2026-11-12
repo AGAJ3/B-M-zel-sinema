@@ -1,5 +1,5 @@
 # Film İzlerken Hızlı Salon Sohbeti
-    st.write("---")
+st.write("---")
     st.subheader("💬 Koltuk Sohbeti (Canlı)")
 
 
